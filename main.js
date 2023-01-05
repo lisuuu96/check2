@@ -3,5 +3,6 @@ function check (num1,num2) {
         return true;
      }
 }
+    check(6,7);
     console.log(check(6,7))
 
